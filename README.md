@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="skulls.gif" width="50%" />
+  <img src="skulls.gif" width="100%" />
 </p>
 
 <div align="center">
