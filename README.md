@@ -12,3 +12,12 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadosneurais&layout=donut&theme=merko&card_width=600" />
 </div>
+
+<p align="center">
+  <b><i>"We only need to be lucky once. They need to be lucky every time!"</i></b>
+<p align="center">
+<a>💀</a>
+</p>
+<p align="center">
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
