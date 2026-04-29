@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0a/ca/98/0aca980a94431dcf00fa6a67524eca24.gif" width="50%" />
+  <img src="skulls.gif" width="50%" />
 </p>
 
 <div align="center">
