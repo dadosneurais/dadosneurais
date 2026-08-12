@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <p align="center">
-  <img src="skulls.gif" width="100%" />
+  <img src="skulls.gif" width="50%" />
 </p>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadosneurais&layout=donut&theme=merko&card_width=600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dadosneurais&theme=merko" width="60%" />
 </div>
 
 <p align="center">
